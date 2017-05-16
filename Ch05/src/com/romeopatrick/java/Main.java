@@ -24,7 +24,7 @@ public class Main {
 //        System.out.println(sb.chars());
         String x = sc.nextLine();
         double d1 = Double.parseDouble(x);
-        String x2 = sc.nextLine();
+            String x2 = sc.nextLine();
         double d2 = Double.parseDouble(x2);
         System.out.println("the sum is:" + (d1+d2));
     }
